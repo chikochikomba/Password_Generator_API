@@ -40,8 +40,11 @@ A secure password generator application built with Python and Flask. This applic
 
 
 
-![error handling](https://github.com/user-attachments/assets/7641c3e9-c65a-43ff-8f64-67ee9f5b8dd1)
+
 ![api response with password](https://github.com/user-attachments/assets/b552dc74-3015-4139-a1f6-6f8f9e16d9ca)
+
+
+![error handling](https://github.com/user-attachments/assets/7641c3e9-c65a-43ff-8f64-67ee9f5b8dd1)
 
 
 
