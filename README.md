@@ -1,2 +1,13 @@
-# password-generator-app
-A secure password Generator application built with Python and Flask
+# Password Generator Application
+
+A secure password generator application built with Python and Flask. This application generates cryptographically secure passwords and exposes an API for integration with other systems.
+
+## Features
+- Generates passwords with customizable length and character sets.
+- Uses the `secrets` module for secure random number generation.
+- Exposes a REST API for easy integration.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/password-generator-app.git
