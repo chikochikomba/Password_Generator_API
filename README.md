@@ -11,3 +11,6 @@ A secure password generator application built with Python and Flask. This applic
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/password-generator-app.git
+
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Flask](https://img.shields.io/badge/flask-2.0-green)
