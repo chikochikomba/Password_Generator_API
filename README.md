@@ -51,5 +51,9 @@ A secure password generator application built with Python and Flask. This applic
 
 
 
+
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![Flask](https://img.shields.io/badge/flask-2.0-green)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+
+
