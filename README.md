@@ -33,7 +33,7 @@ A secure password generator application built with Python and Flask. This applic
   "use_special": true
   }
 
--> The API will return a JSON response withthe generated password:
+-> The API will return a JSON response with the generated password:
 {
   "password": "aB3$fG7@kL9!"
 }
